@@ -10,10 +10,6 @@ In this game you will have to guess the four-letter word or four-digit number.
    - 'Bull': number of correct letter/digits in the correct position.
    - The guess word should not have repeated letters.
 
-## Author Status
-
-I'm not the solo author for this code. Credits/Collaburators : My team members.
-
 ### Enchant library
 
 ```bash
